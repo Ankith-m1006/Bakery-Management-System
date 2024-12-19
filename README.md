@@ -16,7 +16,7 @@ The **Bakery Management App** is a mobile application designed to streamline dai
 
 ---
 ## Home Screen
-![Home Screen](assets/home_screen.jpg)
+![Home Screen](assets/home_screen.jpeg)
 
 ## Tech Stack
 - **Frontend**: React Native  
